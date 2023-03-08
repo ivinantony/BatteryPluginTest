@@ -1,5 +1,7 @@
 {
   "name": "BatteryPlugin",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
